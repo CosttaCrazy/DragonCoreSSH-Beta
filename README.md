@@ -132,4 +132,4 @@ Uso de rede
 ```sh
 php /opt/DragonCore/menu.php network
 ```
-Para suporte: https://t.me/dragoncoresshgp
+Para suporte: https://t.me/dragoncoresshgp - Telegram
